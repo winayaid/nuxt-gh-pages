@@ -1,7 +1,9 @@
 <template>
   <b-container class="text-center">
     <h1>WEBSITE UNDER CONTRUCTION</h1>
-    <nuxt-link to="blog"> Blog </nuxt-link>
+    <nuxt-link to="about">
+      <p>About</p>
+    </nuxt-link>
   </b-container>
 </template>
 
