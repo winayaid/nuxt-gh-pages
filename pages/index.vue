@@ -2,9 +2,9 @@
   <b-container class="text-center">
     <h1>WEBSITE UNDER CONTRUCTION</h1>
     <br />
-    <nuxt-link to="nuxt-gh-pages/about">
+    <!-- <nuxt-link to="nuxt-gh-pages/about">
       <p>About</p>
-    </nuxt-link>
+    </nuxt-link> -->
   </b-container>
 </template>
 
